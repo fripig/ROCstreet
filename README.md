@@ -1,8 +1,8 @@
-# 台灣街景封面產生器
+# 中華民國街景封面產生器
 
 ## Demo
 
-[這裡](http://twstreet.spotlights.news)
+[這裡](http://ROCstreet.spotlights.news)
 
 
 ## 簡介
